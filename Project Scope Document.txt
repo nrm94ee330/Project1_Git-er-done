@@ -1,0 +1,16 @@
+Group Name : Git'erDun
+Group members : Caroline Farchmin, Rusty Smith, Matt Preacher, Nikhil Mahajan
+
+Project Aim:
+To determine the degree to which hapinness is affected by taxation.
+
+Datasets to Use
+
+1. Happiness Dataset
+2. taxation data (normalizaion - cost of living / common factor)
+
+
+
+Views/Displays
+-- Googlemaps overlay heatmap of happy and sad people by country
+
